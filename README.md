@@ -8,7 +8,7 @@ The project emphasizes **system design, modularity, and reasoning transparency**
 
 ---
 
-## 🎯 Motivation (Recruiter-Oriented)
+## 🎯 Motivation
 
 Most RAG systems rely purely on vector similarity, which:
 
@@ -50,7 +50,7 @@ This mirrors how real-world ML systems decompose **unstructured data → structu
 
 ---
 
-## 📁 Codebase Structure (Designed for Readability)
+## 📁 Codebase Structure
 
 ```
 .
@@ -178,7 +178,7 @@ This approach is particularly relevant for:
 
 ---
 
-## 📈 Extensions (Planned / Natural Next Steps)
+## 📈 Extensions
 
 * Hybrid **Graph + Vector** retrieval
 * Learned entity extraction models
