@@ -1,6 +1,5 @@
 # GraphRAG: Structured Retrieval-Augmented Generation from PDFs using Knowledge Graphs
 
-> **A Berkeley-style systems + ML project** exploring how structured knowledge graphs can outperform flat vector retrieval for multi-hop reasoning over documents.
 
 This repository implements a **Graph-based RAG (GraphRAG)** pipeline that ingests PDF documents, extracts entities and relationships using LLMs, stores them in **Neo4j**, and serves **grounded, interpretable answers** via **FastAPI**.
 
