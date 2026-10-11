@@ -3,8 +3,6 @@
 
 This repository implements a **Graph-based RAG (GraphRAG)** pipeline that ingests PDF documents, extracts entities and relationships using LLMs, stores them in **Neo4j**, and serves **grounded, interpretable answers** via **FastAPI**.
 
-The project emphasizes **system design, modularity, and reasoning transparency**, aligning closely with coursework and research themes in **Berkeley CS / EECS** (e.g. CS 182, CS 189, CS 286, INFO 290).
-
 ---
 
 ## 🎯 Motivation
